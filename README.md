@@ -451,6 +451,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Databricks' Data + AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
 1. [RE•WORK MLOps Summit 2022](https://www.re-work.co/events/mlops-summit-2022)
 1. [Annual MLOps World Conference](https://mlopsworld.com/)
+1. [Chain of Thought](https://www.chainofthought.dev/) - Weekly conversations with AI leaders covering inference infrastructure, developer tools, MLOps, and AI strategy. Hosted by Conor Bronsdon.
 </details>
 
 <a name="existing-ml-systems"></a>
